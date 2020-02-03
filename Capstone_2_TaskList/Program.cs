@@ -200,7 +200,7 @@ namespace Capstone_2_TaskList
                         case "quit":
                             Console.WriteLine("Have a good day and remember to complete your assigned tasks.\n");
                             Console.WriteLine("Teamwork makes the dream work!");
-                            goto Exit;
+                            break;
 
                         default:
                             tryAgain = true;
@@ -212,7 +212,7 @@ namespace Capstone_2_TaskList
                 Console.WriteLine("Would you like to return to the main menu? y/n");
                 userContinue = Console.ReadLine();
             }
-        Exit:;
+        
         }
 
         public static string GetUserInput(string message)
@@ -230,5 +230,9 @@ namespace Capstone_2_TaskList
             //stringList.Add(GetUserInput(message));
         }
     }
+
+
+
+   
 }
 
