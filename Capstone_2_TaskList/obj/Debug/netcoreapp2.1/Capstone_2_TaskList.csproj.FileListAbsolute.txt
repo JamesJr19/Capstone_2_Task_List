@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\bin\Debug\netcoreapp2.1\Capstone_2_TaskList.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\bin\Debug\netcoreapp2.1\Capstone_2_TaskList.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\bin\Debug\netcoreapp2.1\Capstone_2_TaskList.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\bin\Debug\netcoreapp2.1\Capstone_2_TaskList.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\bin\Debug\netcoreapp2.1\Capstone_2_TaskList.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Capstone_2_TaskList\Capstone_2_TaskList\obj\Debug\netcoreapp2.1\Capstone_2_TaskList.pdb
